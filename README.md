@@ -20,4 +20,4 @@ Use [Google Drive File Stream](https://support.google.com/a/answer/7491144?hl=en
 ![Preferences](https://i.imgur.com/gk4OCDS.jpg)
 
 ### Step 3 - Begin using the Tangram Library
-![Enjoy](https://i.imgur.com/xqk1Ord.png)
+![Enjoy](https://i.imgur.com/HxjU4gy.jpg)
