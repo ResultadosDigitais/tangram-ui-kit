@@ -7,6 +7,8 @@ You can find all assets created for Tangram in one Sketch Library available on G
 
 By adding the Tangram Library to Sketch, you can easily insert any symbol and know it follows Tangram's design standards.
 
+**Befor you start, please make sure you have installed Google's [Open Sans typeface](https://fonts.google.com/specimen/Open+Sans).**
+
 Just follow the instructions below:
 ### Step 1 - Sync the Library with Google Drive
 Use [Google Drive File Stream](https://support.google.com/a/answer/7491144?hl=en) to sync tangram-gui-pack.sketch from the Product Design folder.
@@ -20,4 +22,4 @@ Use [Google Drive File Stream](https://support.google.com/a/answer/7491144?hl=en
 ![Preferences](https://i.imgur.com/gk4OCDS.jpg)
 
 ### Step 3 - Begin using the Tangram Library
-![Enjoy](https://i.imgur.com/xqk1Ord.png)
+![Enjoy](https://i.imgur.com/HxjU4gy.jpg)
