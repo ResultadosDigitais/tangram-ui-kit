@@ -2,24 +2,11 @@
 ## Intro
 The Tangram Design System includes components and visual guidelines to help your team build more consistent product interfaces.
 
-## Sketch Library
-You can find all assets created for Tangram in one Sketch Library available on Google Drive.
-
-By adding the Tangram Library to Sketch, you can easily insert any symbol and know it follows Tangram's design standards.
-
-**Befor you start, please make sure you have installed Google's [Open Sans typeface](https://fonts.google.com/specimen/Open+Sans).**
-
-Just follow the instructions below:
-### Step 1 - Sync the Library with Google Drive
-Use [Google Drive File Stream](https://support.google.com/a/answer/7491144?hl=en) to sync tangram-gui-pack.sketch from the Product Design folder.
-![Drive Folder](https://i.imgur.com/baMnp6n.jpg)
-
-* If you need access to the Team Drive, ask for help in #design-produto on Slack.
-* Right-click on the file to make it available offline for better reliability.
-* Don’t just download the file from Google Drive. Do use the synced version to ensure you’re always up-to-date.
-
-### Step 2 - Link the Library in Sketch
+## How to use it
+Just download the tangram-design-kit.sketch file and link it as a Library in Sketch, like this:
 ![Preferences](https://i.imgur.com/gk4OCDS.jpg)
 
-### Step 3 - Begin using the Tangram Library
+By adding the Tangram Library to Sketch, you can easily insert any symbol and know it follows Tangram's design standards.
 ![Enjoy](https://i.imgur.com/HxjU4gy.jpg)
+
+**Before you start using it, please make sure you have installed Google's [Open Sans typeface](https://fonts.google.com/specimen/Open+Sans).**
